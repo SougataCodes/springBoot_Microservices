@@ -1,3 +1,0 @@
-service-name=order
-service-port=9909
-dr.url=locahost:8080/db
